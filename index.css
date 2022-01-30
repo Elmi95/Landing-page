@@ -14,7 +14,7 @@
 }
 
 .logo{
-    font-size: 30px;
+    font-size: 24px;
     font-weight: bold;
     align-items: flex-start;
 }
@@ -23,6 +23,7 @@ a{
     text-decoration: none;
     padding: 12px;
     font-weight: bold;
+    font-size: 18px;
 }
 
 .container-2{
@@ -43,4 +44,11 @@ h1{
     color: #e5e7eb;
 }
 
+.button-1{
+    background-color:#3882f6;
+    border-radius: 8px;
+    padding:8px;
+    border: none;
+    width: 100px;
+}
 
